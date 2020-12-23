@@ -1,7 +1,5 @@
 # JPMorgan Virtual SWE Internship
 
-![Certificate](https://github.com/SaadMukhtar/JP-Morgan-SWE-Virtual-Internship/blob/master/certificate.png)
-
 ## Module 1
 Interface with a stock price data feed and set up system for analysis of the data.  
 
@@ -10,3 +8,6 @@ Implement the Perspective open source code (JP Morgan Chase's framework) in prep
 
 ## Module 3
 Use Perspective to create the chart for the trader's dashboard.
+
+## Certificate
+![Certificate](https://github.com/SaadMukhtar/JP-Morgan-SWE-Virtual-Internship/blob/master/certificate.png)
