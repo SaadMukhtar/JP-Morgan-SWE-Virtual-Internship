@@ -1,5 +1,7 @@
 # JPMorgan Virtual SWE Internship
 
+![Certificate](https://github.com/SaadMukhtar/JP-Mo/blob/master/Simulation-Gameplay.png)
+
 ## Module 1
 Interface with a stock price data feed and set up system for analysis of the data.  
 
